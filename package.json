@@ -27,7 +27,6 @@
   },
   "dependencies": {
     "htmlparser2": "^3.7.1",
-    "request": "^2.36.0",
-    "superagent": "^0.18.0"
+    "request": "^2.36.0"
   }
 }

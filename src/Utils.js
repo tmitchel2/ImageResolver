@@ -1,4 +1,4 @@
-var request = require('superagent');
+var request = require('request');
 
 var Utils = function( options ){
     this.options = options || {};
